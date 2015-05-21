@@ -25,7 +25,7 @@
       <date-part name="day"/>
     </date>
     <terms>
-      <term name="retrieved">available</term>
+      <term name="retrieved">tilgjengelig</term>
       <term name="section" form="short">sect.</term>
     </terms>
   </locale>
